@@ -1,0 +1,2 @@
+javac Main.java Furniture.java Table.java Bed.java Chair.java
+java Main
