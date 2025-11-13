@@ -1,0 +1,4 @@
+javac TopWords.java Stack.java SalesTracker.java 
+java TopWords
+java Stack 
+java SalesTracker
